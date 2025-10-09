@@ -1,0 +1,24 @@
+From 18831fcde76a4a84430f6dfe7e88a74d7dce6f3e Mon Sep 17 00:00:00 2001
+From: Meghana <meghanabaggam@gmail.com>
+Date: Thu, 9 Oct 2025 11:29:38 +0530
+Subject: [PATCH] patch file commit
+
+---
+ index.php | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.php b/index.php
+index 5cb2c2b..954f99a 100644
+--- a/index.php
++++ b/index.php
+@@ -14,6 +14,7 @@ echo "<h1>Cherry-pick1</h1>";
+ echo "<h1>Cherry-pick2</h1>";
+ 
+ echo "<h1>My app is now bug free</h1>";
++echo "<h1>patch file is addeddd</h1>";
+ 
+ ?>
+ 
+-- 
+2.51.0.windows.2
+
