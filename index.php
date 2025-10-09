@@ -14,6 +14,7 @@ echo "<h1>Cherry-pick1</h1>";
 echo "<h1>Cherry-pick2</h1>";
 
 echo "<h1>My app is now bug free</h1>";
+echo "<h1>patch file is addeddd</h1>";
 
 ?>
 
